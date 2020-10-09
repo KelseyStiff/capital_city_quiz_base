@@ -79,3 +79,4 @@ let countriesAndCodes = [
     {"name":"Virgin Islands (British)","alpha-2":"VG","country-code":"092"},{"name":"Virgin Islands (U.S.)","alpha-2":"VI","country-code":"850"},{"name":"Yemen","alpha-2":"YE","country-code":"887"},
     {"name":"Zambia","alpha-2":"ZM","country-code":"894"},{"name":"Zimbabwe","alpha-2":"ZW","country-code":"716"}
 ]
+
